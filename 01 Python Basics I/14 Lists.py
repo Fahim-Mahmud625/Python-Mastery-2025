@@ -3,8 +3,8 @@ li2 = ['a', 'b', 'c']
 li3 = [1,2,3.5, 'a', True]
 
 # Data Structure is a way of organizing and storing data so that it can be accessed and worked with efficiently.
-# Python has four built-in data structures: List, Tuple, Set and Dictionary.
-# List is a collection which is ordered and changeable. Allows duplicate members.
+  # Python has four built-in data structures: List, Tuple, Set and Dictionary.
+  # List is a collection which is ordered and changeable. Allows duplicate members.
 
 amazon_cart = ['notebooks',
                'sunglasses',
