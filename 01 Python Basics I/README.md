@@ -4,31 +4,31 @@ This repository contains Python scripts covering fundamental concepts from the *
 
 ## 📂 Contents
 
-| #  | Topic |
-|----|-----------------------------------|
-| 01 | First Python Code |
-| 02 | Numbers |
-| 03 | Math Functions |
-| 04 | Variables |
-| 05 | Strings |
-| 06 | Type Conversion |
-| 07 | Escape Sequences |
-| 08 | Formatted Strings |
-| 09 | String Indexing |
-| 10 | Built-in Functions & Methods |
-| 11 | Booleans |
-| 12 | Type Conversion Exercise |
-| 13 | Password Checker |
-| 14 | Lists |
-| 15 | Matrix |
-| 16 | List Methods |
-| 17 | Common List Patterns |
-| 18 | List Unpacking |
-| 19 | None |
-| 20 | Dictionaries |
-| 21 | Dictionary Methods |
-| 22 | Tuples |
-| 23 | Sets |
+| #  | Filename                           | Description                                         |
+|----|------------------------------------|-----------------------------------------------------|
+| 01 | `01 First Code.py`                 | Introduction to Python syntax and basic code structure. |
+| 02 | `02 Numbers.py`                    | Working with integers and floats; basic arithmetic operations. |
+| 03 | `03 Math Functions.py`             | Utilizing Python's built-in mathematical functions. |
+| 04 | `04 Variables.py`                  | Understanding variable assignment and naming conventions. |
+| 05 | `05 Strings.py`                    | Introduction to string manipulation and operations. |
+| 06 | `06 Type Conversion.py`            | Converting between different data types. |
+| 07 | `07 Escape Sequences.py`           | Using escape sequences in strings for formatting. |
+| 08 | `08 Formatted Strings.py`          | Creating formatted strings using various methods. |
+| 09 | `09 String Indexes.py`             | Accessing and slicing strings using indexing. |
+| 10 | `10 Built in Functions + Methods.py` | Exploring essential built-in functions and string methods. |
+| 11 | `11 Booleans.py`                   | Introduction to Boolean values and expressions. |
+| 12 | `12 Exercise Type Conversion.py`   | Practice exercises on type conversion. |
+| 13 | `13 Password Checker.py`           | Building a simple password checker program. |
+| 14 | `14 Lists.py`                      | Introduction to lists and basic list operations. |
+| 15 | `15 Matrix.py`                     | Working with nested lists to create matrices. |
+| 16 | `16 List Methods.py`               | Exploring common list methods and their uses. |
+| 17 | `17 Common List Patterns.py`       | Understanding common patterns and practices with lists. |
+| 18 | `18 List Unpacking.py`             | Unpacking list elements into variables. |
+| 19 | `19 None.py`                       | Understanding the `None` value and its significance. |
+| 20 | `20 Dictionaries.py`               | Introduction to dictionaries and key-value pairs. |
+| 21 | `21 Dictionary Methods.py`         | Exploring common dictionary methods. |
+| 22 | `22 Tuples.py`                     | Understanding tuples and their immutability. |
+| 23 | `23 Sets.py`                       | Introduction to sets and set operations. |
 
 
 ## 📌 Notes
