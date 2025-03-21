@@ -14,7 +14,7 @@ This repository contains Python scripts covering advanced fundamental concepts f
 | `06 Enumerate Function.py`             | Utilizing `enumerate()` for indexing in loops.           |
 | `07 While Loops.py`                    | Implementing `while` loops for repeated execution.       |
 | `08 Break, Continue, Pass.py`          | Controlling loop flow with `break`, `continue`, and `pass`. |
-| `09 Our First Gui.py`                  | Introduction to GUI using simple loop to draw a tree             |
+| `09 Our First Gui.py`                  | Introduction to GUI using simple loop to draw a tree.             |
 | `10 Find Duplicates.py`                | Detecting duplicate values in a list.                    |
 | `11 Functions.py`                      | Defining and using functions for modular code.           |
 | `12 Parameters and Arguments.py`       | Understanding function parameters and arguments.         |
