@@ -14,8 +14,8 @@ This section delves into the concept of decorators in Python, exploring their cr
 | `05 Why we need Decorators.py`     | Discussing the importance and benefits of using decorators by creating performance decorator and excercises.   |
 
 ## 📌 Notes
-- Each script builds upon the previous one to enhance understanding of decoratrs.
-- Practical examples are provided to illustrate the application of decoratrs.
+- Each script builds upon the previous one to enhance understanding of decoratrs.
+- Practical examples are provided to illustrate the application of decoratrs.
 - Contributions and feedback are welcome!
 
 Happy coding! 🚀🐍
