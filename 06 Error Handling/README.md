@@ -10,8 +10,8 @@ This section covers how Python handles errors and exceptions, along with techniq
 | `03 More Error Handling.py`      | Exploring advanced error handling techniques, including raise.  |
 
 ## 📌 Notes
-- Each script builds upon the previous one to enhance understanding of error handlng.
-- Practical examples are provided to illustrate the application of error handling techniqes.
-- Contributions and feedback are welcme!
+- Each script builds upon the previous one to enhance understanding of error handlng.
+- Practical examples are provided to illustrate the application of error handling techniqes.
+- Contributions and feedback are welcme!
 
 Happy coding! 🚀🐍
