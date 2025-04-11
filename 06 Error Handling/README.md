@@ -1,5 +1,5 @@
 # Python Error Handling 🚨🐍
-This section covers how Python handles errors and exceptions, along with techniques to write robust and crash-proof code using `try`, `except`, `else`, `finally`, and `raise`.
+This section covers how Python handles errors and exceptions, along with techniques to write robust and crash-proof code using `try`, `except`, `else`, `finally`, and `raise`.
 
 ## 📂 Content
 
