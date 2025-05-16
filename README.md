@@ -20,17 +20,9 @@ Object-Oriented Programming (OOP)
 
 Data structures & algorithms
 
-Web development with Python
-
 Automation & scripting
 
 Working with databases
-
-APIs & web scraping
-
-Machine learning introduction
-
-
 
 ---
 
